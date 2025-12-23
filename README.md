@@ -45,7 +45,7 @@ console.log("Welcome to my digital playground! 🚀");
 
 ### 🔐 **Proofly – Tamper-Proof Evidence Vault*
 > **Immutable, Verifiable & Court-Ready Digital Evidence**
-- 🌐 **Tech Stack**: `React Node.js Solidity Polygon IPFS Web3`
+- 🌐 **Tech Stack**: `React Node.js' 'Solidity' 'Polygon' 'IPFS' 'Web3`
 - 🎯 **Impact**: Prevents digital evidence tampering and strengthens legal admissibility
 - 📱 **Features**: File hashing, blockchain timestamping, AI metadata extraction, chain-of-custody tracking, QR-based sharing
 - 🔗 [View Project](https://proofly-suite-nstf.vercel.app/)
