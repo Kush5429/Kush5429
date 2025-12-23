@@ -43,6 +43,13 @@ console.log("Welcome to my digital playground! 🚀");
 
 ## 🚀 Featured Projects
 
+### 🔐 **Proofly – Tamper-Proof Evidence Vault*
+> **Immutable, Verifiable & Court-Ready Digital Evidence**
+- 🌐 **Tech Stack**: `React Node.js Solidity Polygon IPFS Web3`
+- 🎯 **Impact**: Prevents digital evidence tampering and strengthens legal admissibility
+- 📱 **Features**: File hashing, blockchain timestamping, AI metadata extraction, chain-of-custody tracking, QR-based sharing
+- 🔗 [View Project](https://proofly-suite-nstf.vercel.app/)
+
 ### 🏥 **Gramin Arogya** - *Telemedicine Platform*
 > **Bridging Healthcare Gaps in Rural Communities**
 - 🌐 **Tech Stack**: `Next.js` `MongoDB` `AI Integration`
